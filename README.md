@@ -36,11 +36,6 @@ pip install git+https://github.com/gtluubruker/timstof_targeted_3d_maldi_analysi
 
 ## Usage
 
-The `run.py` script can be run in `Anaconda Prompt` when the `timstof_targeted_3d_maldi_analysis` venv created during 
-installation is activated.
-
-For help, use: `python run.py --help`. Parameters are also described below.
-
 #### Parameters
 
 `get_feature_intensities`: used for features entered from the command line<br>
